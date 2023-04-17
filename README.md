@@ -23,7 +23,6 @@ OpenGL을 활용해서 간단히 스노우볼을 그려보려고 합니다!
 - **Language:** ` C `
 - **IDE:** `Visual Studio 2019`
 
----
 
 
 
