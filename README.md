@@ -22,7 +22,9 @@ OpenGL을 활용해서 간단히 스노우볼을 그려보려고 합니다!
 
 ---
 
+<!--
 ![슬라이드1](https://user-images.githubusercontent.com/70474886/232523740-0fa3cfab-5c9d-4a74-9566-cb0c8b16d298.PNG)
+-->
 ![슬라이드2](https://user-images.githubusercontent.com/70474886/232523744-cc3635de-9384-4542-b620-43cd8d5283d1.PNG)
 
 
